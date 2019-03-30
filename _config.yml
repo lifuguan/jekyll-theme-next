@@ -290,9 +290,9 @@ sidebar:
 # Blog rolls
 links_title: 友链
 links_layout: block
-#links_layout: inline
-#links:
-  Title: https://noauxy.github.io
+# #links_layout: inline
+links:
+   Auxy: noauxy.github.io
 
 
 # ---------------------------------------------------------------
