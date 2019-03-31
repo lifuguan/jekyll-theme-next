@@ -292,7 +292,9 @@ links_title: 友链
 links_layout: block
 # #links_layout: inline
 links:
-   Auxy: http://noauxy.github.io
+   Auxy: noauxy.github.io
+   Hwaii: http://waiifrog.top/
+   QiayuanLiao: https://qiayuanliao.github.io/
 
 
 # ---------------------------------------------------------------
