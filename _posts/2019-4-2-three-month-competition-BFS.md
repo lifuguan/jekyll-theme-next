@@ -1,7 +1,6 @@
-
 ---
 title:  学校选拔赛（DFS&BFS&迷宫问题）-总结
-date: 2019-4-1 13:00:00
+date: 2019-4-2 13:00:00
 categories:
 - Algorithm
 - C++
