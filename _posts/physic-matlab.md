@@ -4,9 +4,13 @@ date: 2019-5-4 16:00:00
 categories:
 tags:
 ---
+# 不用MATLAB的工科生不是好工科生
 - 学号：2018040206 
 - 姓名：李昊
+
+
 ```matlab
+
 X=[1.95 3.90 10.60 13.55 9.25 2.95 ];    %输入数据
 Y=[2.95 1.80 3.25 7.80 14.15 13.65 ];  %输入数据
 X_1=[2.35 4.35 11.05 12.80 8.90 3.25];    %输入数据
@@ -24,9 +28,9 @@ plot(X,Y,'r*');axis equal;hold on;
 alpha=linspace(0,2*pi,100);
 plot(x1+r1*cos(alpha),y1+r1*sin(alpha),'g-');
 hold off
-function [xc,yc,R,a]=circlefit(x,y)
-% CIRCLEFIT 拟合函数
+% circlefit 拟合函数
 % 公式：x^2+y^2+a(1)*x+a(2)*y+a(3)=0
+function [xc,yc,R,a]=circlefit(x,y)
 
 n=length(x);
 xx=x.*x;
