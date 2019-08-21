@@ -17,7 +17,7 @@ tags:
 
 ### 基于AprilTag的ROS定位系统（摄像头型号：mvBlueFOX-MLC200wc）
 ---
-![](img/ros.png)
+![](https://raw.githubusercontent.com/lifuguan/lifuguan.github.io/master/_posts/img/ros.png)
 
 
 ### ！此摄像头不通用于普通USB摄像头（必须通过调用自带的SDK）
@@ -26,7 +26,7 @@ tags:
 3. 无法使用**ROS**的*usb_cam*等常用包进行读取
 
 ## ROS调用简介
-![](img/rosgraph.png)
+![](https://raw.githubusercontent.com/lifuguan/lifuguan.github.io/master/_posts/img/rosgraph.png)
 
 **bluefox2**
 
@@ -40,7 +40,7 @@ tags:
 
 识别在`/config/tags.yml`里标记了的*tag*
 
-![](img/io_diagram.png)
+![](https://raw.githubusercontent.com/lifuguan/lifuguan.github.io/master/_posts/img/io_diagram.png)
 
 ## 使用方式(假设已经安装成功)
 
@@ -65,7 +65,7 @@ roslaunch apriltag_ros my_continuous_detection.launch
 
 ### 直接通过apriltag+OpenCV（使用mp4或者其他USB摄像头）
 ---
-![](img/opencv.png)
+![](https://raw.githubusercontent.com/lifuguan/lifuguan.github.io/master/_posts/img/opencv.png)
 
 ### 源码地址 [opencv_demo.cc](/src/apritag/example/opencv_demo.cc)
 
@@ -87,7 +87,7 @@ opencv_demo
 
 ### Gazebo仿真环境下的Aprilag目标跟随
 ---
-![](img/tag_follower.png)
+![](https://raw.githubusercontent.com/lifuguan/lifuguan.github.io/master/_posts/img/tag_follower.png)
 
 - 包名称`apriltag_localization_simulations`
 - 使用模型`car.urdf`
@@ -107,4 +107,4 @@ rosrun  apriltag_localization_simulation tag_tf_listener.cpp
 **car.urdf**
 
 tf树
-![](img/frames.png)
+![](https://raw.githubusercontent.com/lifuguan/lifuguan.github.io/master/_posts/img/frames.png)
