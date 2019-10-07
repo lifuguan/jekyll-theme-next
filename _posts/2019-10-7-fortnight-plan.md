@@ -1,5 +1,5 @@
 ---
-title: 2019.10.7fortnight总结
+title: 2019.10.7-fortnight-总结
 date: 2019-10-7-10:00:00
 categories:
 - fortnight plan
