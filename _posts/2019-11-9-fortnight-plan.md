@@ -1,11 +1,3 @@
-<!--
- * @Author: lifuguan
- * @Date: 2019-11-09 16:20:55
- * @LastEditTime: 2019-11-09 16:29:36
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /lifuguan.github.io/_posts/2019-11-9-fortnight-plan.md
- -->
 ---
 title: 2019.11.9-fortnight-总结
 date: 2019-11-9-10:00:00
