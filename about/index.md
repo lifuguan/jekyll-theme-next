@@ -45,6 +45,13 @@ type: about
 ```
   竞赛方向：全局优化算法
   ```
-  
+  ## 了解&掌握技能
+  ```
+  语言: C++, Python
+  技术: CUDA高性能计算, 机器学习(K-means, BP, SVM), 深度学习(CNN, U-net)
+  ```
   ## 目前研究方向
-  
+  ```
+  高性能计算框架: CUDA
+  深度学习&机器学习: U-NET, Attention机制, Transformer机制
+  ```
